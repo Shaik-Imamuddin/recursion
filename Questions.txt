@@ -1,0 +1,12 @@
+Implement the below Programs using recursion
+
+Q1.Write a program to print all numbers from 1 to N.
+Q2.Write a program to find the factorial of a given number.
+Q3.Write a program to count the number of digits in a given integer.
+Q4.Write a program to find the sum of digits of a given number.
+Q5.Write a program to calculate the value of (a raised to the power b).
+Q6.Write a program to reverse the digits of a given number.
+Q7.Write a program to print the Fibonacci series up to N terms.
+Q8.Write a program to check whether a given array is sorted in ascending order.
+Q9.Write a program to check whether a given string is a palindrome.
+Q10.Write a program to remove all occurrences of a specified character from a given string.
